@@ -1,0 +1,2 @@
+# ArcGIS_ECharts_xchqx
+ECharts组件结合ArcGIS本地发布地图，实现北京市西城区人口迁徙图示例
